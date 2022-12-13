@@ -1,0 +1,17 @@
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Introduction to Front-End Developer</h1>
+    <p>Hiermt überarbeite ich weiter Themen zu dem Artikel</p>
+    <ul>
+        <li style="color: red;">HTML</li>
+        <li style="color: blue;">CSS</li>
+        <li style="color: green;">Javascript</li>
+    </ul>
+</body>
+</html>
